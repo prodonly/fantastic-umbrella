@@ -60,3 +60,7 @@ To view the mobile application, open [Expo](https://expo.io/) on your mobile dev
 ## Credits
 
 We managed to get a lot of work done by using mcnamee's [React (Web + Native) Starter Kit](https://github.com/mcnamee/react-native-starter-kit) which gave us plenty of examples to work with and allowed us to focus more on the challenge.
+
+## Sponsorship
+
+[idphoto.ai](https://idphoto.ai/) is our sponsor. [idphoto.ai](https://idphoto.ai/) provides APIs for creating ID photos and passport photos. Their API also offers industry-leading photo issue detection to ensure photo meets ICAO standard.
